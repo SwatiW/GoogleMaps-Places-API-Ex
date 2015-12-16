@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <array name="Regions">
+    <item name="Shamshabad">Shamshabad</item>
+
+    <item name="Kukatpally">Kukatpally</item>
+    <item name="Mallapur">Mallapur</item>
+    <item name="Hi_Tech_City">Hi Tech City</item>
+    <item name="Habsiguda">Habsiguda</item>
+    <item name="Jubilee_Hills">Jubilee Hills</item>
+    <item name="Secunderabad">Secunderabad</item>
+    <item name="Banjara_Hills">Banjara Hills</item>
+    <item name="Manikonda">Manikonda</item>
+    <item name="Uppal_Kalan">Uppal Kalan</item>
+
+    <item name="Ameerpet">Ameerpet</item>
+    <item name="Shamirpet">Shamirpet</item>
+    <item name="Sainikpuri">Sainikpuri</item>
+    <item name="Quthbullapur">Quthbullapur</item>
+    <item name="ACGuards">A C Guards</item>
+    <item name="Adikmet">Adikmet</item>
+    <item name="AbidsRoad">Abids Road</item>
+    <item name="Afzalgunj">Afzalgunj</item>
+    <item name="Agapura">Agapura</item>
+    <item name="AhmedNagar">Ahmed Nagar</item>
+    <item name="AdarshNagar">Adarsh Nagar</item>
+    <item name="AkbarRoad">Akbar Road</item>
+    <item name="Aliabad">Aliabad</item>
+    <item name="KingKothi">King Kothi</item>
+    <item name="Abids">Abids</item>
+    <item name="Mehdipatnam">Mehdipatnam</item>
+    <item name="Tolichowki">Tolichowki</item>
+    <item name="Punjagutta">Punjagutta</item>
+    <item name="Kacheguda">Kacheguda</item>
+    <item name="Narayanguda">Narayanguda</item>
+    <item name="Lakdikapul">Lakdikapul</item>
+    <item name="Nallakunta">Nallakunta</item>
+
+ </array>
+</resources>
